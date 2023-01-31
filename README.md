@@ -1,6 +1,7 @@
 <h1>Hi! I'm Julia!</h1>
 <p>I'm former scientist just started my own way in web-developement. Here are my study and pet-projects.</p>
 <i>Tools and languages:</i>
+<br>
 <div>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />
