@@ -1,5 +1,5 @@
 <h1>Hi! I'm Julia!</h1>
-<p>I'm former scientist just started my own way in web-developement. Here are my study and pet-projects.</p>
+<p>I'm a former scientist just started my own way in web-developement. In this profile you'll find my study and pet-projects.</p>
 <i>Tools and languages:</i>
 <div>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
