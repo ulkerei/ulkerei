@@ -16,6 +16,7 @@
 	<img height="32" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
 	<img height="32" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma" />
 </div>
-
-<p>Email: leeloo-t@yandex.ru</p>
-<p>Telegram/instagram: @ulkerei</p>
+<ul>
+	<li>Email: leeloo-t@yandex.ru</li>
+	<li>Telegram/instagram: @ulkerei</li>
+</ul>
