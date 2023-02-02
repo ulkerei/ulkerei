@@ -1,6 +1,6 @@
 <h1>Hi! I'm Julia!</h1>
-<p>I'm a former scientist just started my own way in web-developement. Moved to Amsterdam in 2022 and charmed by this city. Looking forward to find a place where my skills will be useful (30-40 h/week, office or mixed-type).</p>
-<p>I'm a communicative and creative person, fond of nature, arts, medieval architecture and cars.
+<p>I'm a former scientist just started my own way in web-developement. I'm a communicative and creative person, fond of nature, arts, medieval architecture and cats. </p>
+<p>I moved to Amsterdam in 2022 and was charmed by this city. Looking forward to find a place where my skills will be useful (30-40 h/week, office or mixed-type).</p>
 <p>In this profile you'll find my study and pet-projects.</p>
 <i>Tools and languages:</i>
 <div>
